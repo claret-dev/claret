@@ -1,0 +1,12 @@
+{
+  "name": "claret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:claret-dev/claret.git",
+  "author": "ildjenty <s-takamagari@jade-cat.biz>",
+  "license": "MIT",
+  "dependencies": {
+    "hono": "^4.2.8",
+    "react": "^18.3.1"
+  }
+}
